@@ -518,7 +518,7 @@ body {
   gap: var(--size-200);
 }
 
-input:where([type="text"], [type="email"]) {
+input:where([type="email"]) {
   border-radius: 100vw;
   border: 0;
   padding: var(--size-300) var(--size-400);
