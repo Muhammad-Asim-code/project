@@ -424,6 +424,10 @@ body {
   }
 }
 
+.index {
+  z-index: -1;
+}
+
 .cta {
   position: relative;
   isolation: isolate;
